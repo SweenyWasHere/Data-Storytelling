@@ -26,7 +26,7 @@ Here's a quick review of files currently published on this page and some on the 
 -
 What it is:  
 -
-This is a workbook with a main sheet that functions like a homepage, has several dataset sheets and 16 chart sheets.  Its main focus is demonstrating Excel VBA automation.  The home page has over 30 VBA-enabled action buttons used to manipulate and change objects throughout the workbook. 
+This is a workbook with a main sheet that functions like a homepage, has several dataset sheets and 16 chart sheets.  Its main focus is demonstrating Excel VBA automation.  The home page has over 30 VBA-enabled action buttons used to manipulate and change objects throughout the workbook.  BTW, the charts are from an older presentation.  I didn't bother to update the colors because my role is to build the VBA automation, not design the charts themselves.
 
 What it does:  
 -
