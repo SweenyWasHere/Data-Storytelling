@@ -2,6 +2,7 @@
 Rich Sweeny 
 richsweeny@SweenyWasHere.com 
 516-432-6571
+
 Hi!  My name is Rich Sweeny.
 
 Thank you for coming to my Data Storytelling repository.  As I'm sure you know, with the growth of analytics, there has been an explosion of interest in combining the mountains of available data with fluid, flexible, real-time graphics to create simple, coherent ideas.  Data Storytelling allows executives, managers and even salespeople to focus their complex data into easily understood messaging that allows their audience to quickly grasp their point.
