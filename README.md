@@ -17,11 +17,9 @@ see https://online.hbs.edu/blog/post/data-storytelling"
 
 My soft skills in combining the data into easily understood chunks can be seen in the two pdf files attached.  An excellent example is the “Monthly Data Review.pdf”, a template I created and used in my wireless management & optimization business, XRay Wireless Managed Services.  That presentation includes slides that use a four-quadrant format of Chart, Table, Status, and Issues.  It was a very effective design that I used for each of eleven separate cost areas to review expenses, provide status and explain issues and strategies moving forward – all in one slide!
 
-There 5 files currently in this repository, 2 Excel workbooks "SourceMobile Charts.xlsm" and "Input_Output_Demo_xlsm.zip" which is a package of 11 files, two pdf files, "Monthly Data Review.pdf" and "XRay Wireless Brochures.pdf" and "RSweeny Developer Resume.docx".
+There are 5 files currently in this repository, 2 Excel workbooks "SourceMobile Charts.xlsm" and "Input_Output_Demo_xlsm.zip", (which is a package of 11 files), two pdf files, "Monthly Data Review.pdf" and "XRay Wireless Brochures.pdf" and "RSweeny Developer Resume.docx".  I will be adding MS Access databases and PBIX files to demonstrate my Access and Power BI abilities next.
 
-I will be adding MS Access databases and PBIX files to demonstrate my Access and Power Bi abilities next.
-
-Here's a quick review of files currently published on this page and some on the way:
+Here's a quick review of four files currently published on this page, plus my resume and some more that are coming soon:
 
 1- Excel Workbook: SourceMobile_Charts.xlsm – Loaded in this repository now.
 -
@@ -33,7 +31,7 @@ What it does:
 -
 After the file opens, the user is presented with the “SourceMobile Charting Suite” worksheet.
 
-There is a welcome form that gives a brief explanation and then you’re free to tour the workbook. From that main worksheet, buttons take you to different chart sheets, allow you to zoom in and out of worksheets, change workbook window sizes, add or remove the ribbon and tool bars, delete chart data, headings & buttons and then add them all back in again!  I suggest you start with the “Chart Tour” button."  It works perfectly in Windows and also works well on the Mac.  But there are currently two known issues on Macs.  A) The “Resize Window” button throws an error.  It’s managed and won’t crash the program, but Resize does not work.  B) The “Delete Buttons” button will delete the buttons from the chart sheets, but the Add Buttons won’t add them back!  If you use that button, just close the app without saving it and reopen.  I will fix it soon.  It’s a Mac thing.  Argghh!
+There is a welcome form that gives a brief explanation and then you’re free to tour the workbook. From that main worksheet, buttons take you to different chart sheets, allow you to zoom in and out of worksheets, change workbook window sizes, add or remove the ribbon and tool bars, delete chart data, headings & buttons and then add them all back in again!  I suggest you start with the “Chart Tour” button."  It works perfectly in Windows and also works well on the Mac.  But there are currently two known issues on Macs,  a) the “Resize Window” button throws an error.  It’s managed and won’t crash the program, but Resize does not work.  b) The “Delete Buttons” button will delete the buttons from the chart sheets, but the Add Buttons won’t add them back!  If you use that button, just close the app without saving it and reopen.  I will fix it soon.  It’s a Mac thing.  Argghh!
 
 2- Data Storytelling: XRay Wireless Monthly Data Review.pdf - Loaded in this repository now.
 -
@@ -54,13 +52,13 @@ These are brochures that I created for my business, XRay Wireless Managed Servic
 What it does:  
 -
 I am demonstrating my “hard skills” with specific examples of my work in Excel, Access and Power BI.  
-These brochures were designed and created entirely by me.  The purpose of presenting the brochures here is to demonstrate what Harvard Business School Online would call my soft skill counterparts of Data Storytelling.
+These brochures were designed and created entirely by me.  The purpose of presenting the brochures here is to demonstrate my "soft skill counterparts" for Data Storytelling.
 
 4- Excel Workbook: Input_Output_Demo_xlsm.zip - Loaded in this repository now.
 -
 What it is:  
 -
-This is a workbook that starts with a single worksheet, lots of VBA and multiple input files.  The input files include another Excel workbook, an Access database and four separate CSV files.  All three sources contain the same datasets to import.  It also includes BMP and PNG files.  
+This is a workbook that starts with a single worksheet, lots of VBA and multiple input files.  The input files include another Excel workbook, an Access database and four separate CSV files.  All three sources contain the same datasets to import.  It also includes BMP and PNG files to import.  
 
 The Excel workbook, "Input_Output_Demo.xlsm" is packaged in a zip file along with 10 other files, an Access database, another Excel workbook, four CSV files and multiple picture files.  The embedded VBA code imports the included files into the Excel workbook during the build process, adding them to worksheets and forms.
 
