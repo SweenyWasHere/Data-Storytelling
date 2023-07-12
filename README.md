@@ -5,24 +5,25 @@ richsweeny@SweenyWasHere.com
 
 Hi!  My name is Rich Sweeny.
 
-Thank you for coming to my Data Storytelling repository.  As I'm sure you know, with the growth of analytics, there has been an explosion of interest in combining the mountains of available data with fluid, flexible, real-time graphics to create simple, coherent ideas.  Data Storytelling allows executives, managers and even salespeople to focus their complex data into easily understood messaging that allows their audience to quickly grasp their point.
-The purpose of this repository is to allow hiring managers to see my basic coding skills - so you can spend more time interviewing coders and less time with posers.  (Here's hoping you consider me in the first group!)
+Thank you for coming to my Data Storytelling repository.  With the growth of analytics, there has been an explosion of interest in combining the mountains of available data with fluid, flexible, real-time graphics to create simple, coherent ideas.  Data Storytelling allows executives, managers and even salespeople to focus their complex data into easily understood messaging that allows their audience to quickly grasp their point.
+The purpose of this repository is to allow hiring managers to see my Coding skills - so you can get an immediate sense of my ability to solve your programming problems. 
 
-What follows is a detailed explanation of the files that are here now and more that are coming.  If you’re in a hurry, just download the three files attached to this page and go!
-
-The coding examples I will be publishing here utilize three core Microsoft applications that factor heavily into department-based analytics projects.  They are Excel, Access, and Power BI.  These are also the areas where I do most of my coding.  
+The coding examples I am publishing here use the three core Microsoft applications that factor heavily into department-based analytics projects.  They are Excel, MS Access and Power BI, along with VBA, SQL, DAX and overall Data Storytelling.  These are the areas where I do most of my coding.  
 
 I have also posted a couple of projects I created in PowerPoint, (posted here as PDF files).  I included them because I have been using data storytelling techniques for nearly 20 years, before the term data storytelling was used.  But the skillset is the same.
-The purpose of presenting these PowerPoint files is to demonstrate what Harvard Business School Online calls “soft skill counterparts.  It’s not enough to just analyze data; you need to know how to communicate the story it tells in a clear, compelling manner—a skill called Data Storytelling.”
-https://online.hbs.edu/blog/post/data-storytelling"
+The purpose of presenting these PowerPoint files is to demonstrate what Harvard Business School Online calls: 
+“Soft skill counterparts.  It’s not enough to just analyze data; you need to know how to communicate the story it tells in a clear, compelling manner—a skill called Data Storytelling.”
+see https://online.hbs.edu/blog/post/data-storytelling"
 
-I'll be demonstrating my hard-coding skills in Excel, Access and to a lesser degree in Power BI, but my soft skills in combining the data into easily understood chunks are more obvious in the slide presentations.  An excellent example is the “Monthly Data Review.pdf”, a template I created and used in my wireless management & optimization business, XRay Wireless Managed Services.  That presentation includes slides that use a four-quadrant format of Chart, Table, Status, and Issues.  It was a very effective design that I used for each of eleven separate cost areas to review expenses, provide status and explain issues and strategies moving forward – all in one slide!
+My soft skills in combining the data into easily understood chunks can be seen in the two pdf files attached.  An excellent example is the “Monthly Data Review.pdf”, a template I created and used in my wireless management & optimization business, XRay Wireless Managed Services.  That presentation includes slides that use a four-quadrant format of Chart, Table, Status, and Issues.  It was a very effective design that I used for each of eleven separate cost areas to review expenses, provide status and explain issues and strategies moving forward – all in one slide!
 
-The three files currently on this page and ready to download are the "SourceMobile Charts.xlsm" Excel file and two pdf files, "Monthly Data Review.pdf" and "XRay Wireless Brochures.pdf".
+There 5 files currently in this repository, 2 Excel workbooks "SourceMobile Charts.xlsm" and "Input_Output_Demo_xlsm.zip" which is a package of 11 files, two pdf files, "Monthly Data Review.pdf" and "XRay Wireless Brochures.pdf" and "RSweeny Developer Resume.docx".
+
+I will be adding MS Access databases and PBIX files to demonstrate my Access and Power Bi abilities next.
 
 Here's a quick review of files currently published on this page and some on the way:
 
-1- Excel Workbook: SourceMobile_Charts.xlsm – Loaded on this page now.
+1- Excel Workbook: SourceMobile_Charts.xlsm – Loaded in this repository now.
 -
 What it is:  
 -
@@ -34,7 +35,7 @@ After the file opens, the user is presented with the “SourceMobile Charting Su
 
 There is a welcome form that gives a brief explanation and then you’re free to tour the workbook. From that main worksheet, buttons take you to different chart sheets, allow you to zoom in and out of worksheets, change workbook window sizes, add or remove the ribbon and tool bars, delete chart data, headings & buttons and then add them all back in again!  I suggest you start with the “Chart Tour” button."  It works perfectly in Windows and also works well on the Mac.  But there are currently two known issues on Macs.  A) The “Resize Window” button throws an error.  It’s managed and won’t crash the program, but Resize does not work.  B) The “Delete Buttons” button will delete the buttons from the chart sheets, but the Add Buttons won’t add them back!  If you use that button, just close the app without saving it and reopen.  I will fix it soon.  It’s a Mac thing.  Argghh!
 
-2- Data Storytelling: XRay Wireless Monthly Data Review.pdf - Loaded on this page now.
+2- Data Storytelling: XRay Wireless Monthly Data Review.pdf - Loaded in this repository now.
 -
 What it is:  
 -
@@ -44,7 +45,7 @@ What it does:
 -
 This was a PowerPoint presentation.  What it shows you is how I have been using data storytelling techniques for over fifteen years.  The combined slides that include graphs, tables, status and overview are a particularly good example of a Power BI-like story that I was using long before Power BI became a thing.  In fact, that's one reason I like Power BI so much!
 
-3-Data Storytelling: XRay Wireless Brochure Pack.xlsm - Loaded on this page now.
+3-Data Storytelling: XRay Wireless Brochure Pack.xlsm - Loaded in this repository now.
 -
 What it is:  
 -
@@ -55,7 +56,7 @@ What it does:
 I am demonstrating my “hard skills” with specific examples of my work in Excel, Access and Power BI.  
 These brochures were designed and created entirely by me.  The purpose of presenting the brochures here is to demonstrate what Harvard Business School Online would call my soft skill counterparts of Data Storytelling.
 
-4- Excel Workbook: Input_Output_Demo_xlsm.zip
+4- Excel Workbook: Input_Output_Demo_xlsm.zip - Loaded in this repository now.
 -
 What it is:  
 -
