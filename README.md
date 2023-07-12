@@ -1,7 +1,7 @@
 # Data Storytelling
 Rich Sweeny 
 richsweeny@SweenyWasHere.com 
-516-432-6571
+516-359-6454
 
 Hi!  My name is Rich Sweeny.
 
