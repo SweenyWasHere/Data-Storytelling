@@ -55,19 +55,23 @@ What it does:
 I am demonstrating my “hard skills” with specific examples of my work in Excel, Access and Power BI.  
 These brochures were designed and created entirely by me.  The purpose of presenting the brochures here is to demonstrate what Harvard Business School Online would call my soft skill counterparts of Data Storytelling.
 
-
-THESE FILES WILL BE COMING SOON.
-
-
-4- Excel Workbook: Data_IO_Builder.xlsm - Coming soon.
+4- Excel Workbook: Input_Output_Demo_xlsm.zip
 -
 What it is:  
 -
-This is a workbook that starts with a single worksheet, lots of VBA and multiple input files.  The input files include another Excel workbook, an Access database and four separate CSV files.  All three sources contain the same datasets to import.  It also includes BMP and PNG files.
+This is a workbook that starts with a single worksheet, lots of VBA and multiple input files.  The input files include another Excel workbook, an Access database and four separate CSV files.  All three sources contain the same datasets to import.  It also includes BMP and PNG files.  
+
+The Excel workbook, "Input_Output_Demo.xlsm" is packaged in a zip file along with 10 other files, an Access database, another Excel workbook, four CSV files and multiple picture files.  The embedded VBA code imports the included files into the Excel workbook during the build process, adding them to worksheets and forms.
 
 What it does:  
 -
+This file demonstrates my ability to use VBA to automate an Excel workbook by importing data and pictures from excel, access and CSV files.  It also shows my ability to use data to create very complex formulas in a workbook, all created from VBA.
+
 After the file opens, the user clicks on one single colored cell in the one existing worksheet and the VBA builds an “Import form”.  The Import form asks you to choose the format of the import data, either CSV, Excel or Access.  After choosing the type of file(s) to import, the VBA imports the data and creates a dozen worksheets with either complex Excel formulas, charts or information about the user's Windows environment, PC chipset, etc."
+
+
+THESE FILES WILL BE COMING SOON:
+
 
 5- Power BI: Data Storytelling using data from SourceMobile_Charts.xlsm - Coming soon.
 -
